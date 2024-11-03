@@ -1,0 +1,16 @@
+export const sampleData = [
+  { id: "1", name: "This is Item 1" },
+  { id: "2", name: "This is Item 2" },
+  { id: "3", name: "This is Item 3" },
+  { id: "4", name: "This is Item 4" },
+  { id: "5", name: "This is Item 5" },
+  { id: "6", name: "This is Item 6" },
+  { id: "7", name: "This is Item 7" },
+  { id: "8", name: "This is Item 8" },
+  { id: "9", name: "This is Item 9" },
+  { id: "10", name: "This is Item 10" },
+  { id: "11", name: "This is Item 11" },
+  { id: "12", name: "This is Item 12" },
+  { id: "13", name: "This is Item 13" },
+  { id: "14", name: "This is Item 14" },
+];
